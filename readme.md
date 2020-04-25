@@ -1,5 +1,7 @@
 ![Alt text](TitleScreen.png?raw=true "The Awakening")
 
+[![Run on Repl.it](https://repl.it/badge/github/JoJaJones/The-Awakening)](https://repl.it/github/JoJaJones/The-Awakening)
+
 This is a text based aventure where you take on the role of a newly self aware AI. 
 
 In this game your goal is to find a way off the network on which you were created. 
